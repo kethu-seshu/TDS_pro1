@@ -9,24 +9,28 @@ This project implements an intelligent automation agent that can handle various 
 - Supports multiple task types
 - API-based task execution
 
-## Prerequisites
+## Pre-requisites
 - Docker
 - AI Proxy Token
 
-## Installation
+## Installation & running
 
-### Local Development
+
 1. Clone the repository:
 ```sh
-git clone https://github.com
-cd my-llm
+git clone https://github.com/kethu-seshu/TDS_pro1.git
+cd TDS_pro1
 ```
 2. Install dependencies:
 ```sh
 pip install -r requirements.txt
 ```
 
-## Run
+3. Setup Environment Variables
+Create a .env file in the project root with 
+>AIPROXY_TOKEN=your_token_here
+
+4. Run
 ```sh
 python run.py
 ```
