@@ -1,13 +1,14 @@
-# LLM-Based Automation Agent
+# LLM-Based Automation Agent  
 
-## Project Overview
-This project implements an intelligent automation agent that can handle various tasks using natural language processing and LLM capabilities.
+## Overview  
+This project is an automation agent that processes diverse operational and business tasks using an LLM (GPT-4o-Mini). The agent accepts plain-English instructions, executes multi-step operations, and produces verifiable outputs. It is designed to integrate into a Continuous Integration (CI) pipeline to streamline processes at DataWorks Solutions.  
 
-## Features
-- Task parsing using GPT-4o-Mini
-- Secure file operations
-- Supports multiple task types
-- API-based task execution
+## Features  
+- Task execution powered by GPT-4o-Mini  
+- Secure and controlled file operations  
+- API-based task execution and verification  
+- Multi-step automation for logs, reports, and code artifacts  
+- Compliance with security constraints (no file deletions or external data access)  
 
 ## Pre-requisites
 - Docker
