@@ -1,7 +1,7 @@
 # LLM-Based Automation Agent  
 
 ## Overview  
-This project is an automation agent that processes diverse operational and business tasks using an LLM (GPT-4o-Mini). The agent accepts plain-English instructions, executes multi-step operations, and produces verifiable outputs. It is designed to integrate into a Continuous Integration (CI) pipeline to streamline processes at DataWorks Solutions.  
+This project is an automation agent that processes diverse operational and business tasks using an LLM . The agent accepts plain-English instructions, executes multi-step operations, and produces verifiable outputs. It is designed to integrate into a Continuous Integration (CI) pipeline.  
 
 ## Features  
 - Task execution powered by GPT-4o-Mini  
