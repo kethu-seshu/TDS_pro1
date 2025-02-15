@@ -27,6 +27,7 @@ pip install -r requirements.txt
 ```
 
 3. Setup Environment Variables
+
 Create a .env file in the project root with 
 >AIPROXY_TOKEN=your_token_here
 
